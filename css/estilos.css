@@ -1,0 +1,33 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    font-size: 30px;
+    color: rgb(255, 38, 0);
+    background-color: black;
+}
+header {
+    background-color: rgb(255, 208, 0);
+}
+footer {
+    background-color: rgb(255, 208, 0);
+}
+ul{
+    list-style: none;
+}
+h1 {
+    font-size: 45px;
+}
+h2 {
+    font-size: 35px;
+}
+/* main */
+.menu__img {
+    display: flex;
+    justify-content: center;
+}
+.menu__img--imagen {
+    width: 900px;
+    padding: 10px;
+}
